@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my portfolio/blog and reviewing workshops fromr Grace Hopper.
+- 🔭 I’m currently working on my portfolio/blog and reviewing workshops from Grace Hopper.
 - 🌱 I’m currently learning algorithms.
 - 👯 I’m looking to collaborate on pair programming projects. Let's learn a language or create and app together!
 - 🤔 I’m looking for help with finding my first job!
