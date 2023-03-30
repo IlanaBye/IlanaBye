@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <!--
 **IlanaBye/IlanaBye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,9 +25,9 @@ Here are some ideas to get you started:
 
 ### TECHNOLOGIES:
 
-![Node](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Node](https://img.shields.io/badge/-Node.js-555?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-555?&logo=Express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-555?&logo=PostgreSQL)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
 ![React](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
@@ -41,9 +43,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&color=black)](https://www.linkedin.com/in/ilanabye/)
 [![Email](https://img.shields.io/badge/-Email-000?)](mailto:ilanagbye@gmail.com)
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
