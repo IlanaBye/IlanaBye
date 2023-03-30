@@ -1,6 +1,6 @@
-### Hi there 👋 
+### A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.
 
-<h3 align="center">A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.</h3>
+<!-- <h3 align="center">A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.</h3> -->
 
 <!--
 **IlanaBye/IlanaBye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
