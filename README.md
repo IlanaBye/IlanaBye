@@ -1,11 +1,11 @@
 ### Hi there 👋 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.</h3>
 
 <!--
 **IlanaBye/IlanaBye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my portfolio/blog and reviewing workshops fromr Grace Hopper.
 - 🌱 I’m currently learning algorithms.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ilanagbye@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I named my cat Jane - as in plain Jane. Then I named my son Jett Ryder. From lame name to name game changer.
--->
+
 
 ### LANGUAGES && TOOLS:
 
