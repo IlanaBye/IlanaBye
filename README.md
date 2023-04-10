@@ -1,6 +1,5 @@
-## H! I'm Ilana - A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.
+## H! I'm Ilana - A passionate Educator 👩🏻‍🏫 turned Software Engineer 👩🏻‍💻.
 
-### A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.
 <!-- <h3 align="center">A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.</h3> -->
 
 <!--
@@ -34,6 +33,8 @@ Here are some ideas to get you started: -->
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ### CONNECT WITH ME!
+![Twitter](https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg)
+
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&color=black)](https://www.linkedin.com/in/ilanabye/)
 [![Email](https://img.shields.io/badge/-Email-000?)](mailto:ilanagbye@gmail.com) -->
