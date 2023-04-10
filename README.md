@@ -1,5 +1,6 @@
-### H! I'm Ilana - A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.
+## H! I'm Ilana - A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.
 
+### A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.
 <!-- <h3 align="center">A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.</h3> -->
 
 <!--
