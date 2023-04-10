@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ### CONNECT WITH ME!
-![Twitter](https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg)
+![Twitter](https://twitter.com/ilanabye)<img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" height="30" width="40" />
 
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&color=black)](https://www.linkedin.com/in/ilanabye/)
