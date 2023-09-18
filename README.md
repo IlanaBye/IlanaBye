@@ -2,8 +2,6 @@
 
 <!-- <h3 align="center">A passionate Educator👩🏻‍🏫  turned Software Engineer👩🏻‍💻.</h3> -->
 
-**IlanaBye/IlanaBye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on a demo app using Next.js and OpenAI for Uncharted AI. (unchartedai.org)
 - 📚 I'm reviewing workshops from Grace Hopper and building a portfolio/blog using Next.js.
 - 🌱 I’m currently learning algorithms.
