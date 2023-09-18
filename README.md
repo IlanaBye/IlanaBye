@@ -48,6 +48,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilanabye&show_icons=true&locale=en&layout=compact" alt="ilanabye" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilanabye&show_icons=true&locale=en" alt="ilanabye" /></p>
-
 
